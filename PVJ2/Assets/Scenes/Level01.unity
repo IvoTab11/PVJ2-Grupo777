@@ -1173,7 +1173,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: ddc1e51cb80a7374aa7903ca17d04424, type: 2}
+  m_NavMeshData: {fileID: 0}
   m_BuildHeightMesh: 0
 --- !u!1 &100028635
 GameObject:
@@ -5443,7 +5443,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: fbdd517b946f22d49a56c592234f9e1a, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: 960ee3bd2e818454fbe471b7c34b15cf, type: 2}
   m_BuildHeightMesh: 0
 --- !u!1001 &630996345
 PrefabInstance:
@@ -10859,7 +10859,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: d87048065028ab04eba99d4ddf5a6545, type: 2}
+  m_NavMeshData: {fileID: 0}
   m_BuildHeightMesh: 0
 --- !u!4 &1328877530 stripped
 Transform:
